@@ -4,6 +4,6 @@
 
 
 
-[What it do](pippr.herokuapp.com)
+[What it do](http://pippr.herokuapp.com)
 
-[maureenadamo.com](maureenadamo.com)
+[maureenadamo.com](http://maureenadamo.com)
